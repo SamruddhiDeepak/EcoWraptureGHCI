@@ -61,6 +61,9 @@ cd ecowrapture/ecowrapture-frontend
 ```bash
 npm install
 ```
+```bash
+npm install react-router-dom axios
+```
 
 4. Navigate to the backend directory:
 
